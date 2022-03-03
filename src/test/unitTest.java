@@ -10,6 +10,6 @@ public class unitTest {
 	@Test
 	public void test() {
 		int output = obj1.gtk(10);
-		assertEquals(1000, output);
+		assertEquals(10000, output);
 	}
 }
